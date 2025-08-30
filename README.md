@@ -1,21 +1,31 @@
-# CountMyMeds
+# 💊 CountMyMeds
 
-**CountMyMeds** is a tiny web tool to keep track of your pill stock.  
-It runs entirely in the browser using plain HTML, CSS, and JavaScript — no frameworks, no dependencies.
-
----
-
-## Features
-- Add and update your current pill count.
-- Track daily consumption.
-- See how many pills you have left.
-- Lightweight and easy to use.
+A tiny, no-fuss web tool to keep track of your pill stock.  
+Built with **vanilla JavaScript** — just open it in your browser and start counting.
 
 ---
 
-## Getting Started
+## ✨ Features
+- Track pills left  
+- Log daily usage  
+- See when you'll run out  
+- Lightweight: pure HTML, CSS & JS  
 
-1. Clone or download this repository:
+---
 
-   ```bash
-   git clone https://github.com/tasFiquejim/count-my-meds.git
+## 🚀 Quick Start
+
+Clone the repo:
+```bash
+git clone https://github.com/tasFiquejim/count-my-meds.git
+cd count-my-meds
+open index.html
+
+Or download and open index.html in any browser.
+```
+## Usage
+
+- Click "Add Medication"
+- Enter name, current count
+- Click medication cards to log usage
+- App calculates when you'll run out
